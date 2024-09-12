@@ -1,5 +1,3 @@
-In my current role I develop and maintain an ‘in-house’ engineering software application used for the performance simulation of thermodynamic systems, primarily aircraft environmental control systems and gas turbines. I provide training, mentoring and day-to-day troubleshooting to the engineering user community as well as fellow application developers.
-
 
 <!--
 **tony-s-h/tony-s-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
